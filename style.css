@@ -72,7 +72,7 @@ a:hover{
     display: none;
 }
 
-#hamburger-menu{
+.hamburger-menu{
     position: relative;
     display: inline-block;
 }
@@ -147,3 +147,7 @@ a:hover{
 .hamburger-icon span:first-child{
     transform: none;
 }
+
+/* SECTIONS */
+
+
