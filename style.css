@@ -413,3 +413,10 @@ article .icon{
     font-size: larger;
 }
 
+.contact-icon{
+    cursor: default;
+}
+
+.email-icon{
+    height: 2.5rem;
+}
