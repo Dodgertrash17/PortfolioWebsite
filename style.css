@@ -218,7 +218,7 @@ section {
 
 @keyframes cursor{
     to{
-        border-right: 3px solid #b74b4b;
+        border-right: 2px solid #b74b4b;
     }
 }
 
@@ -233,10 +233,10 @@ section {
         content: "Problem Solver";
     }
     61%, 80%{
-        content: "High School Student";
+        content: "High Schooler";
     }
     81%, 100%{
-        content: "Sports Enthusiast";
+        content: "Sports Fan";
     }
 }
 
@@ -352,6 +352,7 @@ section {
 .details-container p{
     color: black;
 }
+
 
 .section-container {
     gap: 4rem;
